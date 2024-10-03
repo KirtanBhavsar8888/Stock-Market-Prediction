@@ -20,6 +20,7 @@ Python Javascript django nodejs react html css bootstrap jquery wordpress Keras 
 Authors
 Kirtan Bhavsar
 Github: https://github.com/KirtanBhavsar8888
+
 LinkedIn: https://www.linkedin.com/in/kirtanubhavsar/
 
 
